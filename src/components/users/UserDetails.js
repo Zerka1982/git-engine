@@ -20,6 +20,7 @@ class UserDetails extends Component {
         
         return (
             <div>
+                <h3 className="text-center">User Details</h3>
                 <User user={this.state.user} />
             </div>
         )
