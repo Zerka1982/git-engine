@@ -1,0 +1,4 @@
+.buttonHolders {
+    display: flex;
+    justify-content: space-around;
+}
